@@ -9,7 +9,7 @@
   Cuando se comparan la similitud es obvia
   ![Guille+Felipe](img/Guille+Felipe.jpg)
   
-- Mediante la aplicación web [https://www.udeuschle.de/panoramas/makepanoramas_en.htm](https://www.udeuschle.de/panoramas/makepanoramas_en.htm) se puede obtener una imagen panorámica generada por ordenador que muestra los nombres de las montañas visibles. Para usarla hace falta conocer la posición y altura sobre el nivel del mar (también llamada _cota_) desde la que se observa el horizonte. Se estima que el piso de la octava planta se encuentra a unos 45 metros sobre el nivel del mar (24 metros de ocho plantas más 10 metros hasta el patio más 10 metros de altura del patio sobre el nivel del mar; ver el cálculo de la estimación más adelante). Habría que considerar también el valor de la refracción (lo que es difícil porque depende de parámetros como la presión y la temperatura y, por lo tanto, varía según el día y la hora). Esta aplicación no permite modificarlo pero al menos sí  tiene en cuenta la refracción presuponiendo que el índice vale 0.13 (éste es uno de los valores usados en topografía cuando se desconoce el índice de refracción real).
+- Mediante la aplicación web [https://www.udeuschle.de/panoramas/makepanoramas_en.htm](https://www.udeuschle.de/panoramas/makepanoramas_en.htm) se puede obtener una imagen panorámica generada por ordenador que muestra los nombres de las montañas visibles. Para usarla hace falta conocer la posición y altura sobre el nivel del mar (también llamada _cota_) desde la que se observa el horizonte. Se estima que el piso de la octava planta se encuentra a unos 45 metros sobre el nivel del mar (24 metros de ocho plantas más 10 metros hasta el patio más 10 metros de altura del patio sobre el nivel del mar; ver el cálculo de la estimación más adelante). Habría que considerar también el valor de la refracción (lo que es difícil porque depende de parámetros como la presión y la temperatura y, por lo tanto, varía según el día y la hora). Esta aplicación no permite modificarlo pero al menos sí lo tiene cuenta, presuponiendo que el índice de refracción vale 0.13 (éste es uno de los valores usados en topografía cuando se desconoce el índice de refracción real).
 
   ![Udeuschle0](img/Udeuschle0.png)
 
@@ -31,7 +31,7 @@
   ![Patio10m](img/Patio10m.png)
   ![Patio10mMyElevation](img/Patio10mMyElevation.png)
   ![Patio15mMyElevation](img/Patio15mMyElevation.png)
-  - Las ocho plantas a 3 metros por planta son 24 metros.
+  - Las ocho plantas a 3 metros por planta miden 24 metros.
   - Finalmente, la altura entre el hueco inferior al primer piso y el patio no parece ser inferior a 10 metros según imagen de Street View.
   ![Edificio3mxplanta](img/Edificio3mxplanta.png)
   ![Edificio10m](img/Edificio10m.png)
