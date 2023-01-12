@@ -26,7 +26,7 @@
 
 ## Cota del octavo piso
 
-- Se estima que la ventana del octavo piso está a unos 45 metros. El terreno original parte desde 10 metros de altura en la esquina del patio (calle Gutemberg con Paseo Marítimo Pablo Ruiz Picasso) hasta 15 metros en el edificio (terminando en 20 metros de cota en Paseo de Sancha). Adjunto capturas de pantalla de la página [https://es-es.topographic-map.com](https://es-es.topographic-map.com) y de la app _My Elevation_.
+- Se estima que la ventana del octavo piso está a unos 45 metros sobre el nivel del mar. El terreno original parte desde 10 metros de altura en la esquina del patio (calle Gutemberg con Paseo Marítimo Pablo Ruiz Picasso) hasta 15 metros en el edificio (terminando en 20 metros de cota en Paseo de Sancha). Adjunto capturas de pantalla de la página [https://es-es.topographic-map.com](https://es-es.topographic-map.com) y de la app _My Elevation_.
   - Suponiendo que allanaron el terreno a la cota más baja, el patio está situado 10 metros sobre el nivel del mar.
   ![Patio10m](img/Patio10m.png)
   ![Patio10mMyElevation](img/Patio10mMyElevation.png)
