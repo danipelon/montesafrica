@@ -4,7 +4,7 @@
   ![Tita1](img/Tita1.jpg)
   ![Tita2](img/Tita2.jpg)
 - Estas imágenes coinciden con otras publicadas en Internet. En una página web personal   [https://www.ac.uma.es/~felipe/africa/](https://www.ac.uma.es/~felipe/africa/) del profesor Luis Felipe Romero (licenciado en Ciencias Físicas que imparte clases de computación en la UMA) se encuentra una fotografía similar realizada desde El Palo a 55 metros sobre el nivel del mar.
-  ![felipe](img/felipe.jpg)
+  ![felipe](img/Felipe.jpg)
   
   Cuando se comparan la similitud es obvia
   ![Guille+Felipe](img/Guille+Felipe.jpg)
