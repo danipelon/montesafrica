@@ -23,7 +23,7 @@ La montaña que se divisa mejor es Jebel Kelti que tiene 1923 metros de altura y
   ![Udeuschle](img/Udeuschle.png)
   ![Kelti1923m](img/Kelti1923m.png)
 
-Mediante la aplicación web _HeyWhatsThat Path Profiler_ en [https://www.heywhatsthat.com/profiler.html](https://www.heywhatsthat.com/profiler.html) se puede obtener una sección vertical junto con la trayectoria que siguen los rayos de luz. Indicando un índice de refracción de 0.13 la aplicación muestra que se pueden observar los últimos 500 metros hasta la cima de la montaña Kelti (si se establece el índice a 0 solo mostraría unos 200 metros).
+Mediante la aplicación web _HeyWhatsThat Path Profiler_ en [https://www.heywhatsthat.com/profiler.html](https://www.heywhatsthat.com/profiler.html) se puede obtener una sección vertical junto con la trayectoria que siguen los rayos de luz. Indicando un índice de refracción de 0.13 la aplicación muestra que se pueden observar los últimos 500 metros hasta la cima de la montaña Kelti (si se establece el índice a 0 solo mostraría menos de 200 metros).
 
 ![Heywhatsthat2](img/Heywhatsthat2.png)
 
